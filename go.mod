@@ -1,4 +1,4 @@
-module github.com/romdo/go-debounce
+module github.com/NurfitraPujo/go-debounce
 
 go 1.18
 

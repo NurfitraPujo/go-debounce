@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/romdo/go-debounce"
+	"github.com/NurfitraPujo/go-debounce"
 )
 
 func ExampleNewMutable() {
